@@ -1,4 +1,4 @@
-# Seaguntech Monorepo Template
+# SeagunAi Monorepo
 
 Seaguntech Turborepo + pnpm workspace template for product teams and OSS.
 
