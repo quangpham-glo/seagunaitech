@@ -1,0 +1,13 @@
+node_modules
+coverage
+dist
+build
+storybook-static
+.turbo
+.next
+out
+.output
+.tanstack
+**/*.gen.ts
+**/routeTree.gen.ts
+pnpm-lock.yaml
